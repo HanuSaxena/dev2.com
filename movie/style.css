@@ -1,0 +1,29 @@
+header{
+    border: inset royalblue 20px;
+    padding: 20px;
+    text-align: center;
+    font-size: 6rem;
+    color:steelblue;
+    border-radius: 60%;
+    
+}
+li{
+    font-style:oblique;
+    font-size: 2rem;
+    color: black;
+}
+.list{
+    border:inherit slateblue 15px ;
+}
+.idk-text{
+    color:steelblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2rem;
+}
+.nope{
+    background-color:lavender;
+    width: 1894px;
+}
+img{
+    width: 1894px;
+}

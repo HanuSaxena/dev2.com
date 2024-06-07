@@ -1,0 +1,38 @@
+h1{
+    font-size: 6rem;
+    text-align: center;
+}
+.Us{
+    padding-top : 150px;
+    height: 200px;
+    width: 100%;
+    background-color: teal;
+    color:cornsilk;
+}
+.blank{
+    height: 0px;
+    width: auto;
+    border: black solid 9px ;
+}
+span>h1{
+    text-align: center;
+    font-size: 4rem;
+}
+.no{
+    text-align: center;
+    font-size: 2rem;
+}
+body{
+    background-color: lemonchiffon;
+}
+footer{
+    background-color: teal;
+    text-align: center;
+    font-size: 2rem;
+    color: greenyellow;
+}
+.Home{
+    text-align: center;
+    font-size: 2.5rem;
+    margin-right: 10px;
+}

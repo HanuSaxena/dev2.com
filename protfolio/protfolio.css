@@ -1,0 +1,44 @@
+.movie{
+    border: inset royalblue 20px;
+    margin-bottom: 50px;
+}
+.day{
+    border: inset royalblue 20px;
+}
+.shot{
+    height: 50%;
+    width: 50%;
+    border: seagreen inset 10px;
+    margin: 10px 10px;
+}
+h1{
+    text-align: center;
+    font-size: 5rem;
+}
+h3{
+    font-size: 3.5rem;
+}
+h4{
+    font-size: 2.5rem;
+}
+.h4{
+    padding: 0%;
+    margin: 0%;
+    text-align:center;
+    border: inset turquoise 10px;
+
+}
+a>h1{
+    text-align: left;
+}
+.hanu{
+    background-color: whitesmoke;
+    color: royalblue;
+    border: solid 15px ;
+    border-radius: 50%;
+}
+.Home{
+    text-align: center;
+    font-size: 2.5rem;
+    margin-right: 10px;
+}

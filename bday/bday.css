@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    font-size: 5rem;
+}
+div{
+    background-color: teal;
+
+}
+body{
+    background-color: lemonchiffon;
+}
+h2{
+    font-size: 6rem;
+    text-align: center;
+}
+
+
+.april{
+    padding: 0%;
+    background-color:thistle ;
+    border: teal inset 5px;
+}
+ol{
+    font-size: 2rem;
+}
